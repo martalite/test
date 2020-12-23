@@ -72,6 +72,6 @@ method m()
  	 set befundempftyp = druckobject.BefundempfängerTyp
  	 set obj = $zobjnext(obj)
  	 set ICD2010.p6131 = diagnose.schlüsselnummermitinhaltbelegt.V
- 	 #dim parentType, childType, iKindId, , shortnameExt, resolveExternal As %String;
+ 	 #dim parentType, childType, iKindId, shortnameExt, resolveExternal As %String;
 }
 }
